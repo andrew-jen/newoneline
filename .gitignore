@@ -1,0 +1,9 @@
+/.env
+/__pycache__
+/google_cloud_key.json
+/google_driver
+/logs
+/ngrok
+/ngrok.zip
+/resource
+/venv
